@@ -1,4 +1,4 @@
-<h1>HOLA MI NOMBRE ES BRITTANY 🥰👩🦄</H1>
+<h1>HOLA MI NOMBRE ES BRITTANY 👩🦄🌈</H1>
 <br>
 **BJSarabia/BJSarabia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - 💬 Me gusta los malvaviscos
 - 😄 Me encanta los animales 
 <!-- HOLA ESTE ES MI README MODIFICADO  -->
+
