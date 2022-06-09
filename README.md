@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 🤔 Soy de ECUADOR 
 - 💬 Me gusta los malvaviscos
 - 😄 Me encanta los animales 
-<!-- HOLA ESTE ES MI README MODIFICADO  -->
-![image](https://user-images.githubusercontent.com/107142954/172890938-d236b324-615d-401c-b229-152f14ecce7e.png)
+<!-- HOLA ESTE ES MI README MODIFICADO  --> 
+![image](https://user-images.githubusercontent.com/107142954/172891468-3a07dad2-0c38-4ee5-a009-5dd4e52b307d.png)
 
